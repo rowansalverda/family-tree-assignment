@@ -1,0 +1,14 @@
+{
+  "name": "family-tree",
+  "version": "1.0.0",
+  "description": "A family tree application using a tree data structure",
+  "main": "familyTree.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
